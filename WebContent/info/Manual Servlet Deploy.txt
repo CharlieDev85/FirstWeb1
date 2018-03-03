@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=CWt9VFua7dM&list=PLtNErhYMkHnE7Ki3le6JtGjNO5CdPLTxg&index=15
+
+to run the app from Apache without eclipse:
+
+copy from the project folder(eclipse) to the webapps folder of apache the following folders:
+- META-INF
+- WEB-INF
+(inside the WEB-INF folder we must place the classes folder)
+
